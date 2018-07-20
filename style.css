@@ -1,0 +1,39 @@
+html, body{
+  margin: 0;
+  padding: 0;
+
+}
+
+hr{
+  background-color: #ff6700;
+  width: 10%;
+
+
+}
+
+body{
+  background-image: url(Background.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.content{
+  margin-top: 400px;
+}
+h1{
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Anton', sans-serif;
+}
+
+#findOutMore{
+  padding-top: 50px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn{
+  text-transform: uppercase;
+}
